@@ -12,7 +12,7 @@ namespace Trio.dev.Controllers
         {
             ViewBag.Title = "Home Page Priti";
             ViewBag.Title = "Home Page Ahmed";
-
+            ViewBag.Title = "Home Page Priti & Ahmed";
             return View();
         }
     }
