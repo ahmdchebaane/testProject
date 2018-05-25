@@ -40,3 +40,45 @@ C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Trio.dev\Trio.dev.T
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Trio.dev\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.csproj.CopyComplete
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Trio.dev\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.dll
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Trio.dev\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.pdb
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Trio.dev.Tests.dll.config
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Trio.dev.Tests.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Trio.dev.Tests.pdb
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Trio.dev.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Trio.dev.pdb
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Trio.dev.dll.config
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.csprojResolveAssemblyReference.cache
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.csproj.CoreCompileInputs.cache
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.csproj.CopyComplete
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.dll
+C:\Users\trio\Source\Repos\trio\Trio.dev.Tests\obj\Debug\Trio.dev.Tests.pdb
