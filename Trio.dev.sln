@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trio.dev", "Trio.dev\Trio.dev.csproj", "{5F612F86-9E11-4D7B-B60F-F0B7303D9C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trio.dev.Tests", "Trio.dev.Tests\Trio.dev.Tests.csproj", "{3149873C-0F2C-439C-B683-455AFE6B26BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F612F86-9E11-4D7B-B60F-F0B7303D9C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F612F86-9E11-4D7B-B60F-F0B7303D9C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F612F86-9E11-4D7B-B60F-F0B7303D9C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F612F86-9E11-4D7B-B60F-F0B7303D9C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3149873C-0F2C-439C-B683-455AFE6B26BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3149873C-0F2C-439C-B683-455AFE6B26BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3149873C-0F2C-439C-B683-455AFE6B26BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3149873C-0F2C-439C-B683-455AFE6B26BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75BE2A9-54A4-4A18-9DC4-409E151C3E5A}
+	EndGlobalSection
+EndGlobal
