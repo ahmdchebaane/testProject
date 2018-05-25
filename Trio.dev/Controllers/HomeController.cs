@@ -10,7 +10,7 @@ namespace Trio.dev.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page Priti";
+            ViewBag.Title = "Home Page Ahmed";
 
             return View();
         }
